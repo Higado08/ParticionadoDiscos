@@ -1,7 +1,7 @@
 # Particionado
 
 Primero añadiremos los discos necesarios para la práctica, en este caso uno de 50GB para particionar en GPT y uno de 100GB para particionar en MBR.
-![Imagen1](../Imagenes/1.png)
+![Imagen1](../ud3/Imagenes/1.png)
 
 
 ## Verificación de los discos
