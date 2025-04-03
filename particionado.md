@@ -38,6 +38,7 @@ Formateamos en **ext4**.
 ![Imagen8](UD3/Imagenes/8.png)
 
 Montaje en `/media/sdb`.
+
 ![Imagen9](UD3/Imagenes/9.png)
 
 Añadimos los ficheros de texto.
@@ -48,8 +49,7 @@ Añadimos los ficheros de texto.
 
 Configuramos el `fstab`.
 
-
-![Imagen11](UD3Imagenes/11.png).
+![Imagen1100](UD3Imagenes/11.png).
 
 ![Imagen12](UD3/Imagenes/12.png)
 
