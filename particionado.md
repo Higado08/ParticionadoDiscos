@@ -101,7 +101,7 @@ Añadimos el fichero de texto correspondiente a cada partición.
 
 Editamos el fichero `fstab`.
 
-![Imagen23](UD3/Imagenes/ultima.png)
+![Imagen23](UD3/Imagenes/Ultima.png)
 
 ---
 
