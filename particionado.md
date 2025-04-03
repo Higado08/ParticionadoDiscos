@@ -47,6 +47,7 @@ Añadimos los ficheros de texto.
 ### Configuración del `fstab`
 
 Configuramos el `fstab`.
+
 ![Imagen11](UD3Imagenes/11.png)
 
 ![Imagen12](UD3/Imagenes/12.png)
