@@ -51,6 +51,8 @@ Configuramos el `fstab`.
 
 ![Imagen1100](UD3Imagenes/11.png).
 
+---
+
 ![Imagen12](UD3/Imagenes/12.png)
 
 Aplicamos los cambios.
