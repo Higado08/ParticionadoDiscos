@@ -1,5 +1,6 @@
 # ParticionadoDiscos
-Particionaremos dos discos con una maquina ubuntu atendiendo a las siguientes directrices
+Particionaremos dos discos con una maquina ubuntu atendiendo a las siguientes directrices.
+
 El primer disco de 50Gib 
 Particionado en Gdisk
 Dos particiones primarias de 20GiB y 15GiB.
